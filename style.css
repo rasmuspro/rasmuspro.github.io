@@ -28,3 +28,20 @@ html, body {font-family: Verdana, Geneva, Tahoma, sans-serif;}
     top: 30rem;
     left: 6rem;
 }
+
+#fayez-pre {
+    font-size: xx-large;
+    color: magenta;
+}
+
+#fayez {
+    position: absolute;
+    top: 34rem;
+    left: 60rem;
+}
+
+#fish {
+    position: absolute;
+    top: 6rem;
+    left: 65rem;
+}
